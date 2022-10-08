@@ -1,0 +1,15 @@
+C:\Users\travi\source\repos\leetCode\leetCode\bin\Debug\net6.0\leetCode.exe
+C:\Users\travi\source\repos\leetCode\leetCode\bin\Debug\net6.0\leetCode.deps.json
+C:\Users\travi\source\repos\leetCode\leetCode\bin\Debug\net6.0\leetCode.runtimeconfig.json
+C:\Users\travi\source\repos\leetCode\leetCode\bin\Debug\net6.0\leetCode.dll
+C:\Users\travi\source\repos\leetCode\leetCode\bin\Debug\net6.0\leetCode.pdb
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.csproj.AssemblyReference.cache
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.AssemblyInfoInputs.cache
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.AssemblyInfo.cs
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.csproj.CoreCompileInputs.cache
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.dll
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\refint\leetCode.dll
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.pdb
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\leetCode.genruntimeconfig.cache
+C:\Users\travi\source\repos\leetCode\leetCode\obj\Debug\net6.0\ref\leetCode.dll
